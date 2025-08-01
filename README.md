@@ -1,1 +1,1 @@
-# Wallet_Security
+# Crypto Wallet Security Guide\n\nThis repository provides practical tips to secure your cryptocurrency wallets from hacks and scams.\n\n## Key Tips\n1. **Strong Passwords**: Use unique, complex passwords for all wallet accounts.
