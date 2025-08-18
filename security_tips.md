@@ -5,3 +5,4 @@
 \n5. **Update Software**: Keep wallet apps and devices updated to patch security vulnerabilities.
 \n6. **Use Cold Storage**: Keep most crypto offline to reduce exposure to online threats.
 \n7. **Monitor Transactions**: Use Etherscan or similar tools to check for unauthorized wallet activity.
+\n8. **Use Multi-Sig Wallets**: Require multiple approvals for transactions to secure large holdings.
