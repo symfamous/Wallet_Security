@@ -3,3 +3,4 @@
 \n3. **Enable 2FA**: Use two-factor authentication (e.g., Google Authenticator) on wallets and exchanges.
 \n4. **Secure Seed Phrase**: Store your recovery phrase in a physical safe or safety deposit box, never digitally.
 \n5. **Update Software**: Keep wallet apps and devices updated to patch security vulnerabilities.
+\n6. **Use Cold Storage**: Keep most crypto offline to reduce exposure to online threats.
